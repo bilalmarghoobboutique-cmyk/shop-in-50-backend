@@ -1,0 +1,1039 @@
+[
+  {
+    "orderNumber": "S50-20260914-CCD15242",
+    "customer": {
+      "name": "sdjfh",
+      "phone": "923266501314",
+      "email": "dubaijewelrybox@gmail.com",
+      "city": "skdjfh",
+      "address": "asfa",
+      "notes": ""
+    },
+    "products": [
+      {
+        "id": "1789110584548-3cke2oqs9gd",
+        "name": "Wireless Headphones",
+        "category": "electronics",
+        "emoji": "🎧",
+        "quantity": 40,
+        "unitPrice": 50,
+        "total": 2000
+      },
+      {
+        "id": "1789357747759-dvff1jdm6r4",
+        "name": "Beauty Makeup Kit",
+        "category": "beauty",
+        "emoji": "💄",
+        "quantity": 3,
+        "unitPrice": 50,
+        "total": 150
+      }
+    ],
+    "pricing": {
+      "totalQuantity": 43,
+      "pricePerItem": 50,
+      "productsTotal": 2150,
+      "deliveryCharges": 645,
+      "grandTotal": 2795,
+      "isSaleActive": true
+    },
+    "payment": {
+      "method": "cod",
+      "status": "Cash on Delivery - Pending",
+      "transactionId": ""
+    },
+    "notes": "",
+    "status": "pending",
+    "createdAt": "2026-09-14T03:57:29.697Z",
+    "serverReceivedAt": "2026-09-14T03:57:29.697Z",
+    "store": {
+      "name": "Shop in 50 Rupees",
+      "whatsapp": "923266501314",
+      "easypaisa": "03266501314",
+      "email": "bilalmargoobboutique@gmail.com",
+      "address": "Shop in 50 Rupees, Main Bazaar, Ghaziabad, Lahore Cantt"
+    }
+  },
+  {
+    "orderNumber": "S50-20260914-82C2CD1B",
+    "customer": {
+      "name": "sdjfh",
+      "phone": "923266501314",
+      "email": "bilalmarghoobboutique@gmail.com",
+      "city": "lahore",
+      "address": "ksdjfh",
+      "notes": ""
+    },
+    "products": [
+      {
+        "id": "1789110584548-3cke2oqs9gd",
+        "name": "Wireless Headphones",
+        "category": "electronics",
+        "emoji": "🎧",
+        "quantity": 40,
+        "unitPrice": 50,
+        "total": 2000
+      },
+      {
+        "id": "1789357747759-dvff1jdm6r4",
+        "name": "Beauty Makeup Kit",
+        "category": "beauty",
+        "emoji": "💄",
+        "quantity": 3,
+        "unitPrice": 50,
+        "total": 150
+      }
+    ],
+    "pricing": {
+      "totalQuantity": 43,
+      "pricePerItem": 50,
+      "productsTotal": 2150,
+      "deliveryCharges": 645,
+      "grandTotal": 2795,
+      "isSaleActive": true
+    },
+    "payment": {
+      "method": "cod",
+      "status": "Cash on Delivery - Pending",
+      "transactionId": ""
+    },
+    "notes": "",
+    "status": "pending",
+    "createdAt": "2026-09-14T04:01:51.079Z",
+    "serverReceivedAt": "2026-09-14T04:01:51.079Z",
+    "store": {
+      "name": "Shop in 50 Rupees",
+      "whatsapp": "923266501314",
+      "easypaisa": "03266501314",
+      "email": "bilalmargoobboutique@gmail.com",
+      "address": "Shop in 50 Rupees, Main Bazaar, Ghaziabad, Lahore Cantt"
+    }
+  },
+  {
+    "orderNumber": "S50-20260914-62C3C787",
+    "customer": {
+      "name": "sdjfh",
+      "phone": "923266501314",
+      "email": "bilalmarghoobboutique@gmail.com",
+      "city": "skdjfh",
+      "address": "sdfs",
+      "notes": ""
+    },
+    "products": [
+      {
+        "id": "1789359058858-1xx03kmfdy3",
+        "name": "Sports Shoes",
+        "category": "sports",
+        "emoji": "👟",
+        "quantity": 1,
+        "unitPrice": 100,
+        "total": 100
+      },
+      {
+        "id": "1789359060561-bufzkhl5d8i",
+        "name": "Men's T-Shirt",
+        "category": "fashion",
+        "emoji": "👕",
+        "quantity": 1,
+        "unitPrice": 100,
+        "total": 100
+      },
+      {
+        "id": "1789359076528-rw95obf9i2",
+        "name": "Beauty Makeup Kit",
+        "category": "beauty",
+        "emoji": "💄",
+        "quantity": 1,
+        "unitPrice": 100,
+        "total": 100
+      }
+    ],
+    "pricing": {
+      "totalQuantity": 3,
+      "pricePerItem": 100,
+      "productsTotal": 300,
+      "deliveryCharges": 300,
+      "grandTotal": 600,
+      "isSaleActive": false
+    },
+    "payment": {
+      "method": "cod",
+      "status": "Cash on Delivery - Pending",
+      "transactionId": ""
+    },
+    "notes": "",
+    "status": "pending",
+    "createdAt": "2026-09-14T04:11:57.582Z",
+    "serverReceivedAt": "2026-09-14T04:11:57.582Z",
+    "store": {
+      "name": "Shop in 50 Rupees",
+      "whatsapp": "923266501314",
+      "easypaisa": "03266501314",
+      "email": "bilalmargoobboutique@gmail.com",
+      "address": "Shop in 50 Rupees, Main Bazaar, Ghaziabad, Lahore Cantt"
+    }
+  },
+  {
+    "orderNumber": "S50-20260914-D94B9817",
+    "customer": {
+      "name": "sdjfh",
+      "phone": "923266501314",
+      "email": "bilalmarghoobboutique@gmail.com",
+      "city": "skdjfh",
+      "address": "khgtfyhgc",
+      "notes": ""
+    },
+    "products": [
+      {
+        "id": "1789359280123-r423512ucf8",
+        "name": "Sports Shoes",
+        "category": "sports",
+        "emoji": "👟",
+        "quantity": 6,
+        "unitPrice": 100,
+        "total": 600
+      },
+      {
+        "id": "1789359282906-cy3k0c9a1db",
+        "name": "Men's T-Shirt",
+        "category": "fashion",
+        "emoji": "👕",
+        "quantity": 2,
+        "unitPrice": 100,
+        "total": 200
+      },
+      {
+        "id": "1789359592535-tawaf7hsr7",
+        "name": "Beauty Makeup Kit",
+        "category": "beauty",
+        "emoji": "💄",
+        "quantity": 2,
+        "unitPrice": 100,
+        "total": 200
+      },
+      {
+        "id": "1789359610986-otrp0wn67k",
+        "name": "Kids Toy Set",
+        "category": "toys",
+        "emoji": "🧸",
+        "quantity": 1,
+        "unitPrice": 100,
+        "total": 100
+      },
+      {
+        "id": "1789359613160-4fwnkj7zh3w",
+        "name": "Home Decoration Set",
+        "category": "home",
+        "emoji": "🏠",
+        "quantity": 1,
+        "unitPrice": 100,
+        "total": 100
+      },
+      {
+        "id": "1789359646842-sle775aiin8",
+        "name": "Wireless Headphones",
+        "category": "electronics",
+        "emoji": "🎧",
+        "quantity": 3,
+        "unitPrice": 100,
+        "total": 300
+      },
+      {
+        "id": "1789359997005-wqw5bg82atd",
+        "name": "Smart Watch",
+        "category": "electronics",
+        "emoji": "⌚",
+        "quantity": 2,
+        "unitPrice": 100,
+        "total": 200
+      }
+    ],
+    "pricing": {
+      "totalQuantity": 17,
+      "pricePerItem": 100,
+      "productsTotal": 1700,
+      "deliveryCharges": 300,
+      "grandTotal": 2000,
+      "isSaleActive": false
+    },
+    "payment": {
+      "method": "cod",
+      "status": "Cash on Delivery - Pending",
+      "transactionId": ""
+    },
+    "notes": "",
+    "status": "pending",
+    "createdAt": "2026-09-14T04:29:46.163Z",
+    "serverReceivedAt": "2026-09-14T04:29:46.163Z",
+    "store": {
+      "name": "Shop in 50 Rupees",
+      "whatsapp": "923266501314",
+      "easypaisa": "03266501314",
+      "email": "bilalmargoobboutique@gmail.com",
+      "address": "Shop in 50 Rupees, Main Bazaar, Ghaziabad, Lahore Cantt"
+    }
+  },
+  {
+    "orderNumber": "S50-20260914-361EF8A6",
+    "customer": {
+      "name": "sdjfh",
+      "phone": "923266501314",
+      "email": "bilalmarghoobboutique@gmail.com",
+      "city": "skdjfh",
+      "address": "ksdjfh",
+      "notes": ""
+    },
+    "products": [
+      {
+        "id": "1789360271508-b8akpdkcp6m",
+        "name": "Kids Toy Set",
+        "category": "toys",
+        "emoji": "🧸",
+        "quantity": 1,
+        "unitPrice": 100,
+        "total": 100
+      },
+      {
+        "id": "1789360273456-j6igya9qe3i",
+        "name": "Home Decoration Set",
+        "category": "home",
+        "emoji": "🏠",
+        "quantity": 1,
+        "unitPrice": 100,
+        "total": 100
+      },
+      {
+        "id": "1789360504695-pcj5tw64du8",
+        "name": "Wireless Headphones",
+        "category": "electronics",
+        "emoji": "🎧",
+        "quantity": 1,
+        "unitPrice": 100,
+        "total": 100
+      },
+      {
+        "id": "1789360514218-k7a64cfz4q9",
+        "name": "Smart Phone",
+        "category": "electronics",
+        "emoji": "📦",
+        "quantity": 1,
+        "unitPrice": 100,
+        "total": 100
+      },
+      {
+        "id": "1789360792140-z6y4aqva6cc",
+        "name": "Men's T-Shirt",
+        "category": "fashion",
+        "emoji": "👕",
+        "quantity": 2,
+        "unitPrice": 100,
+        "total": 200
+      },
+      {
+        "id": "1496894d-3662-425b-acd6-f6c4f68a5c7e",
+        "name": "jewelry box",
+        "category": "fashion",
+        "emoji": "📦",
+        "quantity": 12,
+        "unitPrice": 100,
+        "total": 1200
+      }
+    ],
+    "pricing": {
+      "totalQuantity": 18,
+      "pricePerItem": 100,
+      "productsTotal": 1800,
+      "deliveryCharges": 300,
+      "grandTotal": 2100,
+      "isSaleActive": false
+    },
+    "payment": {
+      "method": "cod",
+      "status": "Cash on Delivery - Pending",
+      "transactionId": ""
+    },
+    "notes": "",
+    "status": "pending",
+    "createdAt": "2026-09-14T06:00:30.515Z",
+    "serverReceivedAt": "2026-09-14T06:00:30.515Z",
+    "store": {
+      "name": "Shop in 50 Rupees",
+      "whatsapp": "923266501314",
+      "easypaisa": "03266501314",
+      "email": "bilalmargoobboutique@gmail.com",
+      "address": "Shop in 50 Rupees, Main Bazaar, Ghaziabad, Lahore Cantt"
+    }
+  },
+  {
+    "orderNumber": "S50-20260914-F3B8663C",
+    "customer": {
+      "name": "sdjfh",
+      "phone": "923266501314",
+      "email": "bilalmarghoobboutique@gmail.com",
+      "city": "skdjfh",
+      "address": "asdgf",
+      "notes": ""
+    },
+    "products": [
+      {
+        "id": "1496894d-3662-425b-acd6-f6c4f68a5c7e",
+        "name": "jewelry box",
+        "category": "fashion",
+        "emoji": "📦",
+        "quantity": 38,
+        "unitPrice": 100,
+        "total": 3800
+      }
+    ],
+    "pricing": {
+      "totalQuantity": 38,
+      "pricePerItem": 100,
+      "productsTotal": 3800,
+      "deliveryCharges": 570,
+      "grandTotal": 4370,
+      "isSaleActive": false
+    },
+    "payment": {
+      "method": "cod",
+      "status": "Cash on Delivery - Pending",
+      "transactionId": ""
+    },
+    "notes": "",
+    "status": "pending",
+    "createdAt": "2026-09-14T07:07:52.617Z",
+    "serverReceivedAt": "2026-09-14T07:07:52.617Z",
+    "store": {
+      "name": "Shop in 50 Rupees",
+      "whatsapp": "923266501314",
+      "easypaisa": "03266501314",
+      "email": "bilalmargoobboutique@gmail.com",
+      "address": "Shop in 50 Rupees, Main Bazaar, Ghaziabad, Lahore Cantt"
+    }
+  },
+  {
+    "orderNumber": "S50-20260914-0CAE778F",
+    "customer": {
+      "name": "sdjfh",
+      "phone": "923266501314",
+      "email": "bilalmarghoobboutique@gmail.com",
+      "city": "skdjfh",
+      "address": "kqwjerh",
+      "notes": ""
+    },
+    "products": [
+      {
+        "id": "1496894d-3662-425b-acd6-f6c4f68a5c7e",
+        "name": "jewelry box",
+        "category": "fashion",
+        "emoji": "📦",
+        "quantity": 9,
+        "unitPrice": 100,
+        "total": 900
+      }
+    ],
+    "pricing": {
+      "totalQuantity": 9,
+      "pricePerItem": 100,
+      "productsTotal": 900,
+      "deliveryCharges": 300,
+      "grandTotal": 1200,
+      "isSaleActive": false
+    },
+    "payment": {
+      "method": "cod",
+      "status": "Cash on Delivery - Pending",
+      "transactionId": ""
+    },
+    "notes": "",
+    "status": "pending",
+    "createdAt": "2026-09-14T07:13:18.481Z",
+    "serverReceivedAt": "2026-09-14T07:13:18.481Z",
+    "store": {
+      "name": "Shop in 50 Rupees",
+      "whatsapp": "923266501314",
+      "easypaisa": "03266501314",
+      "email": "bilalmargoobboutique@gmail.com",
+      "address": "Shop in 50 Rupees, Main Bazaar, Ghaziabad, Lahore Cantt"
+    }
+  },
+  {
+    "orderNumber": "S50-20260914-6E3CC88B",
+    "customer": {
+      "name": "sdjfh",
+      "phone": "923266501314",
+      "email": "bilalmarghoobboutique@gmail.com",
+      "city": "skdjfh",
+      "address": "ksdjhf",
+      "notes": ""
+    },
+    "products": [
+      {
+        "id": "1496894d-3662-425b-acd6-f6c4f68a5c7e",
+        "name": "jewelry box",
+        "category": "fashion",
+        "emoji": "📦",
+        "quantity": 6,
+        "unitPrice": 100,
+        "total": 600
+      }
+    ],
+    "pricing": {
+      "totalQuantity": 6,
+      "pricePerItem": 100,
+      "productsTotal": 600,
+      "deliveryCharges": 300,
+      "grandTotal": 900,
+      "isSaleActive": false
+    },
+    "payment": {
+      "method": "cod",
+      "status": "Cash on Delivery - Pending",
+      "transactionId": ""
+    },
+    "notes": "",
+    "status": "delivered",
+    "createdAt": "2026-09-14T07:15:42.894Z",
+    "serverReceivedAt": "2026-09-14T07:15:42.894Z",
+    "store": {
+      "name": "Shop in 50 Rupees",
+      "whatsapp": "923266501314",
+      "easypaisa": "03266501314",
+      "email": "bilalmargoobboutique@gmail.com",
+      "address": "Shop in 50 Rupees, Main Bazaar, Ghaziabad, Lahore Cantt"
+    },
+    "updatedAt": "2026-09-14T07:24:10.791Z"
+  },
+  {
+    "orderNumber": "S50-20260914-A58FA23C",
+    "customer": {
+      "name": "sdjfh",
+      "phone": "923266501314",
+      "email": "bilalmarghoobboutique@gmail.com",
+      "city": "skdjfh",
+      "address": "skjdfh",
+      "notes": ""
+    },
+    "products": [
+      {
+        "id": "1496894d-3662-425b-acd6-f6c4f68a5c7e",
+        "name": "jewelry box",
+        "category": "fashion",
+        "emoji": "📦",
+        "quantity": 40,
+        "unitPrice": 50,
+        "total": 2000
+      }
+    ],
+    "pricing": {
+      "totalQuantity": 40,
+      "pricePerItem": 50,
+      "productsTotal": 2000,
+      "deliveryCharges": 600,
+      "grandTotal": 2600,
+      "isSaleActive": true
+    },
+    "payment": {
+      "method": "cod",
+      "status": "Cash on Delivery - Pending",
+      "transactionId": ""
+    },
+    "notes": "",
+    "status": "pending",
+    "createdAt": "2026-09-14T07:55:55.276Z",
+    "serverReceivedAt": "2026-09-14T07:55:55.276Z",
+    "store": {
+      "name": "Shop in 50 Rupees",
+      "whatsapp": "923266501314",
+      "easypaisa": "03266501314",
+      "email": "bilalmargoobboutique@gmail.com",
+      "address": "Shop in 50 Rupees, Main Bazaar, Ghaziabad, Lahore Cantt"
+    }
+  },
+  {
+    "orderNumber": "S50-20260914-C3EDF455",
+    "customer": {
+      "name": "sdjfh",
+      "phone": "923266501314",
+      "email": "bilalmarghoobboutique@gmail.com",
+      "city": "skdjfh",
+      "address": "skdjfh",
+      "notes": ""
+    },
+    "products": [
+      {
+        "id": "1496894d-3662-425b-acd6-f6c4f68a5c7e",
+        "name": "jewelry box",
+        "category": "fashion",
+        "emoji": "📦",
+        "quantity": 40,
+        "unitPrice": 50,
+        "total": 2000
+      }
+    ],
+    "pricing": {
+      "totalQuantity": 40,
+      "pricePerItem": 50,
+      "productsTotal": 2000,
+      "deliveryCharges": 600,
+      "grandTotal": 2600,
+      "isSaleActive": true
+    },
+    "payment": {
+      "method": "cod",
+      "status": "Cash on Delivery - Pending",
+      "transactionId": ""
+    },
+    "notes": "",
+    "status": "pending",
+    "createdAt": "2026-09-14T08:18:30.519Z",
+    "serverReceivedAt": "2026-09-14T08:18:30.519Z",
+    "store": {
+      "name": "Shop in 50 Rupees",
+      "whatsapp": "923266501314",
+      "easypaisa": "03266501314",
+      "email": "bilalmargoobboutique@gmail.com",
+      "address": "Shop in 50 Rupees, Main Bazaar, Ghaziabad, Lahore Cantt"
+    }
+  },
+  {
+    "orderNumber": "S50-20260914-A417D5F3",
+    "customer": {
+      "name": "sdjfh",
+      "phone": "923266501314",
+      "email": "dubaijewelrybox@gmail.com",
+      "city": "skdjfh",
+      "address": "skdjhf",
+      "notes": ""
+    },
+    "products": [
+      {
+        "id": "1496894d-3662-425b-acd6-f6c4f68a5c7e",
+        "name": "jewelry box",
+        "category": "fashion",
+        "emoji": "📦",
+        "quantity": 40,
+        "unitPrice": 50,
+        "total": 2000
+      }
+    ],
+    "pricing": {
+      "totalQuantity": 40,
+      "pricePerItem": 50,
+      "productsTotal": 2000,
+      "deliveryCharges": 600,
+      "grandTotal": 2600,
+      "isSaleActive": true
+    },
+    "payment": {
+      "method": "cod",
+      "status": "Cash on Delivery - Pending",
+      "transactionId": ""
+    },
+    "notes": "",
+    "status": "pending",
+    "createdAt": "2026-09-14T10:40:56.910Z",
+    "serverReceivedAt": "2026-09-14T10:40:56.910Z",
+    "store": {
+      "name": "Shop in 50 Rupees",
+      "whatsapp": "923266501314",
+      "easypaisa": "03266501314",
+      "email": "bilalmarghoobboutique@gmail.com",
+      "address": "Shop in 50 Rupees, Main Bazaar, Ghaziabad, Lahore Cantt"
+    }
+  },
+  {
+    "orderNumber": "S50-20260914-E4B8AF5C",
+    "customer": {
+      "name": "sdjfh",
+      "phone": "923266501314",
+      "email": "bilalmarghoobboutique@gmail.com",
+      "city": "skdjfh",
+      "address": "skjdh",
+      "notes": ""
+    },
+    "products": [
+      {
+        "id": "1496894d-3662-425b-acd6-f6c4f68a5c7e",
+        "name": "jewelry box",
+        "category": "fashion",
+        "emoji": "📦",
+        "quantity": 8,
+        "unitPrice": 100,
+        "total": 800
+      }
+    ],
+    "pricing": {
+      "totalQuantity": 8,
+      "pricePerItem": 100,
+      "productsTotal": 800,
+      "deliveryCharges": 300,
+      "grandTotal": 1100,
+      "isSaleActive": false
+    },
+    "payment": {
+      "method": "cod",
+      "status": "Cash on Delivery - Pending",
+      "transactionId": ""
+    },
+    "notes": "",
+    "status": "pending",
+    "createdAt": "2026-09-14T10:44:05.714Z",
+    "serverReceivedAt": "2026-09-14T10:44:05.714Z",
+    "store": {
+      "name": "Shop in 50 Rupees",
+      "whatsapp": "923266501314",
+      "easypaisa": "03266501314",
+      "email": "bilalmarghoobboutique@gmail.com",
+      "address": "Shop in 50 Rupees, Main Bazaar, Ghaziabad, Lahore Cantt"
+    }
+  },
+  {
+    "orderNumber": "S50-20260914-C590EAF6",
+    "customer": {
+      "name": "sdjfh",
+      "phone": "923266501314",
+      "email": "bilalmarghoobboutique@gmail.com",
+      "city": "skdjfh",
+      "address": "skdjfh",
+      "notes": ""
+    },
+    "products": [
+      {
+        "id": "1496894d-3662-425b-acd6-f6c4f68a5c7e",
+        "name": "jewelry box",
+        "category": "fashion",
+        "emoji": "📦",
+        "quantity": 40,
+        "unitPrice": 50,
+        "total": 2000
+      }
+    ],
+    "pricing": {
+      "totalQuantity": 40,
+      "pricePerItem": 50,
+      "productsTotal": 2000,
+      "deliveryCharges": 600,
+      "grandTotal": 2600,
+      "isSaleActive": true
+    },
+    "payment": {
+      "method": "cod",
+      "status": "Cash on Delivery - Pending",
+      "transactionId": ""
+    },
+    "notes": "",
+    "status": "pending",
+    "createdAt": "2026-09-14T11:06:53.462Z",
+    "serverReceivedAt": "2026-09-14T11:06:53.462Z",
+    "store": {
+      "name": "Shop in 50 Rupees",
+      "whatsapp": "923266501314",
+      "easypaisa": "03266501314",
+      "email": "bilalmarghoobboutique@gmail.com",
+      "address": "Shop in 50 Rupees, Main Bazaar, Ghaziabad, Lahore Cantt"
+    }
+  },
+  {
+    "orderNumber": "S50-20260914-22B80A3A",
+    "customer": {
+      "name": "sdjfh",
+      "phone": "923266501314",
+      "email": "bilalmarghoobboutique@gmail.com",
+      "city": "skdjfh",
+      "address": "ksdjhf",
+      "notes": ""
+    },
+    "products": [
+      {
+        "id": "1496894d-3662-425b-acd6-f6c4f68a5c7e",
+        "name": "jewelry box",
+        "category": "fashion",
+        "emoji": "📦",
+        "quantity": 18,
+        "unitPrice": 100,
+        "total": 1800
+      }
+    ],
+    "pricing": {
+      "totalQuantity": 18,
+      "pricePerItem": 100,
+      "productsTotal": 1800,
+      "deliveryCharges": 300,
+      "grandTotal": 2100,
+      "isSaleActive": false
+    },
+    "payment": {
+      "method": "cod",
+      "status": "Cash on Delivery - Pending",
+      "transactionId": ""
+    },
+    "notes": "",
+    "status": "pending",
+    "createdAt": "2026-09-14T11:18:05.629Z",
+    "serverReceivedAt": "2026-09-14T11:18:05.629Z",
+    "store": {
+      "name": "Shop in 50 Rupees",
+      "whatsapp": "923266501314",
+      "easypaisa": "03266501314",
+      "email": "bilalmarghoobboutique@gmail.com",
+      "address": "Shop in 50 Rupees, Main Bazaar, Ghaziabad, Lahore Cantt"
+    }
+  },
+  {
+    "orderNumber": "S50-20260914-E3AA2315",
+    "customer": {
+      "name": "sdjfh",
+      "phone": "923266501314",
+      "email": "bilalmarghoobboutique@gmail.com",
+      "city": "skdjfh",
+      "address": "ksdjhf",
+      "notes": ""
+    },
+    "products": [
+      {
+        "id": "1496894d-3662-425b-acd6-f6c4f68a5c7e",
+        "name": "jewelry box",
+        "category": "fashion",
+        "emoji": "📦",
+        "quantity": 40,
+        "unitPrice": 50,
+        "total": 2000
+      }
+    ],
+    "pricing": {
+      "totalQuantity": 40,
+      "pricePerItem": 50,
+      "productsTotal": 2000,
+      "deliveryCharges": 600,
+      "grandTotal": 2600,
+      "isSaleActive": true
+    },
+    "payment": {
+      "method": "cod",
+      "status": "Cash on Delivery - Pending",
+      "transactionId": ""
+    },
+    "notes": "",
+    "status": "pending",
+    "createdAt": "2026-09-14T11:27:15.864Z",
+    "serverReceivedAt": "2026-09-14T11:27:15.864Z",
+    "store": {
+      "name": "Shop in 50 Rupees",
+      "whatsapp": "923266501314",
+      "easypaisa": "03266501314",
+      "email": "bilalmarghoobboutique@gmail.com",
+      "address": "Shop in 50 Rupees, Main Bazaar, Ghaziabad, Lahore Cantt"
+    }
+  },
+  {
+    "orderNumber": "S50-20260914-93B0C42C",
+    "customer": {
+      "name": "sdjfh",
+      "phone": "923266501314",
+      "email": "bilalmarghoobboutique@gmail.com",
+      "city": "skdjfh",
+      "address": "skdjhf",
+      "notes": ""
+    },
+    "products": [
+      {
+        "id": "1496894d-3662-425b-acd6-f6c4f68a5c7e",
+        "name": "jewelry box",
+        "category": "fashion",
+        "emoji": "📦",
+        "quantity": 40,
+        "unitPrice": 50,
+        "total": 2000
+      }
+    ],
+    "pricing": {
+      "totalQuantity": 40,
+      "pricePerItem": 50,
+      "productsTotal": 2000,
+      "deliveryCharges": 600,
+      "grandTotal": 2600,
+      "isSaleActive": true
+    },
+    "payment": {
+      "method": "cod",
+      "status": "Cash on Delivery - Pending",
+      "transactionId": ""
+    },
+    "notes": "",
+    "status": "pending",
+    "createdAt": "2026-09-14T11:59:18.020Z",
+    "serverReceivedAt": "2026-09-14T11:59:18.020Z",
+    "store": {
+      "name": "Shop in 50 Rupees",
+      "whatsapp": "923266501314",
+      "easypaisa": "03266501314",
+      "email": "bilalmarghoobboutique@gmail.com",
+      "address": "Shop in 50 Rupees, Main Bazaar, Ghaziabad, Lahore Cantt"
+    }
+  },
+  {
+    "orderNumber": "S50-20260914-91932B89",
+    "customer": {
+      "name": "sdjfh",
+      "phone": "923266501314",
+      "email": "bilalmarghoobboutique@gmail.com",
+      "city": "skdjfh",
+      "address": "wedf",
+      "notes": ""
+    },
+    "products": [
+      {
+        "id": "1789011988469",
+        "name": "Wireless Headphones",
+        "category": "100",
+        "emoji": "🎧",
+        "quantity": 22,
+        "unitPrice": 50,
+        "total": 1100
+      },
+      {
+        "id": "1789011991140",
+        "name": "Smart Phone",
+        "category": "100",
+        "emoji": "📱",
+        "quantity": 8,
+        "unitPrice": 50,
+        "total": 400
+      },
+      {
+        "id": "1789011993710",
+        "name": "Smart Watch",
+        "category": "100",
+        "emoji": "⌚",
+        "quantity": 6,
+        "unitPrice": 50,
+        "total": 300
+      },
+      {
+        "id": "1789012001500",
+        "name": "Sports Shoes",
+        "category": "100",
+        "emoji": "👟",
+        "quantity": 21,
+        "unitPrice": 50,
+        "total": 1050
+      }
+    ],
+    "pricing": {
+      "totalQuantity": 57,
+      "pricePerItem": 50,
+      "productsTotal": 2850,
+      "deliveryCharges": 855,
+      "grandTotal": 3705,
+      "isSaleActive": true
+    },
+    "payment": {
+      "method": "cod",
+      "status": "Cash on Delivery - Pending",
+      "transactionId": ""
+    },
+    "notes": "",
+    "status": "pending",
+    "createdAt": "2026-09-14T14:52:31.037Z",
+    "serverReceivedAt": "2026-09-14T14:52:31.037Z",
+    "store": {
+      "name": "Shop in 50 Rupees",
+      "whatsapp": "923266501314",
+      "easypaisa": "03266501314",
+      "email": "bilalmarghoobboutique@gmail.com",
+      "address": "Shop in 50 Rupees, Main Bazaar, Ghaziabad, Lahore Cantt"
+    }
+  },
+  {
+    "orderNumber": "S50-20260914-5332310A",
+    "customer": {
+      "name": "sdjfh",
+      "phone": "923266501314",
+      "email": "bilalmarghoobboutique@gmail.com",
+      "city": "skdjfh",
+      "address": "sergf",
+      "notes": ""
+    },
+    "products": [
+      {
+        "id": "1496894d-3662-425b-acd6-f6c4f68a5c7e",
+        "name": "jewelry box",
+        "category": "fashion",
+        "emoji": "📦",
+        "quantity": 40,
+        "unitPrice": 50,
+        "total": 2000
+      }
+    ],
+    "pricing": {
+      "totalQuantity": 40,
+      "pricePerItem": 50,
+      "productsTotal": 2000,
+      "deliveryCharges": 600,
+      "grandTotal": 2600,
+      "isSaleActive": true
+    },
+    "payment": {
+      "method": "cod",
+      "status": "Cash on Delivery - Pending",
+      "transactionId": ""
+    },
+    "notes": "",
+    "status": "pending",
+    "createdAt": "2026-09-14T14:53:38.885Z",
+    "serverReceivedAt": "2026-09-14T14:53:38.885Z",
+    "store": {
+      "name": "Shop in 50 Rupees",
+      "whatsapp": "923266501314",
+      "easypaisa": "03266501314",
+      "email": "bilalmarghoobboutique@gmail.com",
+      "address": "Shop in 50 Rupees, Main Bazaar, Ghaziabad, Lahore Cantt"
+    }
+  },
+  {
+    "orderNumber": "S50-20260914-D2263AFB",
+    "customer": {
+      "name": "sdjfh",
+      "phone": "923266501314",
+      "email": "bilalmarghoobboutique@gmail.com",
+      "city": "skdjfh",
+      "address": "kasdh",
+      "notes": ""
+    },
+    "products": [
+      {
+        "id": "1496894d-3662-425b-acd6-f6c4f68a5c7e",
+        "name": "jewelry box",
+        "category": "fashion",
+        "emoji": "📦",
+        "quantity": 1,
+        "unitPrice": 100,
+        "total": 100
+      }
+    ],
+    "pricing": {
+      "totalQuantity": 1,
+      "pricePerItem": 100,
+      "productsTotal": 100,
+      "deliveryCharges": 300,
+      "grandTotal": 400,
+      "isSaleActive": false
+    },
+    "payment": {
+      "method": "cod",
+      "status": "Cash on Delivery - Pending",
+      "transactionId": ""
+    },
+    "notes": "",
+    "status": "pending",
+    "createdAt": "2026-09-14T15:03:00.782Z",
+    "serverReceivedAt": "2026-09-14T15:03:00.782Z",
+    "store": {
+      "name": "Shop in 50 Rupees",
+      "whatsapp": "923266501314",
+      "easypaisa": "03266501314",
+      "email": "bilalmarghoobboutique@gmail.com",
+      "address": "Shop in 50 Rupees, Main Bazaar, Ghaziabad, Lahore Cantt"
+    }
+  }
+]

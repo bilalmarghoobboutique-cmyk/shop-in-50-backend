@@ -1,0 +1,19 @@
+[
+  {
+    "id": "1496894d-3662-425b-acd6-f6c4f68a5c7e",
+    "name": "jewelry box",
+    "category": "fashion",
+    "description": "high class ring jewelry box",
+    "price": 100,
+    "stock": 628,
+    "sold": 372,
+    "emoji": "📦",
+    "photos": [
+      "/uploads/products/1789357304860-4526c12a2e72.png"
+    ],
+    "video": "/uploads/products/1789357304865-c7be54287ed2.mp4",
+    "active": true,
+    "createdAt": "2026-09-14T03:41:44.874Z",
+    "updatedAt": "2026-09-14T03:41:44.874Z"
+  }
+]
